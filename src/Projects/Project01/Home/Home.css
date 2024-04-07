@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.home-hero{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(26, 32, 43);
+    color: #fff;
+      display: flex;
+      position: relative;
+}
+h1{
+    font-size: 3rem;
+    color: rgb(255, 89, 0);
+    font-weight: 900;
+    text-align: center;
+}
+.h6{
+text-transform: uppercase;
+color: #cfcdcd;
+}
+.h5{
+    text-align: center;
+    color: #cfcdcd;
+}
+.home{
+    margin-top: -100px;
+    overflow: hidden;
+}

@@ -1,0 +1,18 @@
+.navbar {
+  background-color: #000;
+}
+a {
+  text-decoration: none !important;
+  color: #ffffffb6 !important;
+  margin-left: 20px;
+}
+.nav-item .active {
+  border-bottom: 2px solid white !important;
+  color: #fff !important;
+}
+@media (max-width: 990px) {
+  a {
+    margin-top: 15px !important;
+    margin-left: 0 !important;
+  }
+}
